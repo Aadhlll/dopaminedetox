@@ -36,9 +36,12 @@ In a world overloaded with short-form content and addictive algorithms, it's har
 
 - [x] Location-based social content aggregation  
 - [x] Time-based filtering (e.g. today, this week, custom range)  
-- [ ] Entertainment & reel filter  
 - [ ] NLP-powered content categorization  
 - [ ] Raw source tagging (Reddit, X, etc.)
+- [ ] Customizable feed controls:
+  - Select **what kind** of content you want (e.g., News, Events, Local Buzz)
+  - Toggle **sources** (Reddit, X, Insta)
+  - Filter by **location** and **time**
 
 ---
 
